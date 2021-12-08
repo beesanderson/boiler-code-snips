@@ -17,10 +17,10 @@ PS -- I'm also way cooler than that makes me sound...I swear... * sweats in hidd
 ![Binder Loves of the World UNITE](https://user-images.githubusercontent.com/87204074/145253916-4c582d29-ee1c-41a0-9fdc-d96caaf58751.gif)
 
 
+### ::-Rules of Use-::
+There really aren't any other then if you'd be so kind as to say my name or give a kudos/shoutout every now and again that would be most appreciated **BUT** still isn't required! I'm just in search of a job and am still new to the < devCommunity > and am trying to network through various means but like I said, it's truly not required! :D
 
-#### PPS- If you link to give me credit or shout outs that would be infinitely appreciated but is totally not necessary! 
-#### I'm still very new to the < devCommunity > and am in need of a job yesterday...or a month ago if you catch my drift. 
-#### So any kudos is always appreciated AND most importantly ALWAYS reciprocated!!! 
+Basically, any kudos/shoutouts are *always appreciated* AND most importantly **ALWAYS reciprocated**!!! 
 
 
 
