@@ -1,4 +1,28 @@
-PRETTY - Table of Contents C’n’P - Short
+/* PRETTY - Table of Contents C’n’P - Short (for me lol) */
+
+/* 
+==================================================================================================================================================================
+Hey all! Bridgette Sanderson here 🥸🤓😬
+Feel free to use this as you would like, take
+or add to as you see fit :D 
+
+I made this for myself at the suggestion from a Kevin Powell (LOVE him!) tutorial
+from Scrimba.com and made a lot of adaptions, tweaks, and changes to my personal 
+preference PLEASE feel free to do the same!!
+I'm going to upload some shorter ones and some other versions as 
+time goes on but for now due to my ever tightening time constraints this will have
+to suffice for the time being!! 
+
+PS- If you link to give me credit or shout outs that would be infinitely appreciated
+but is totally not necessary! I'm still very new to the <DEV Community> 
+and am in need of a job yesterday...or a month ago if you catch my drift. 
+So any kudos is always appreciated AND most importantly ALWAYS reciprocated!!! 
+
+Happy Coding and love to all my fellow DEVS!!! :D
+💗Bridgette Sanderson
+                                                                    🥸 🤓 😬
+==================================================================================================================================================================
+*/
 
 
 
@@ -10,30 +34,30 @@ PRETTY - Table of Contents C’n’P - Short
 
 /*
     1. Element Selectors
-    2.  Typography
+    2. Typography
             i. Utility Typography Classes
            ii. Specific Typography Classes
     3. Layout
-            i.  Utility Layout Classes
+            i. Utility Layout Classes
     4. Buttons
             i. Standard Buttons
            ii. JavaScript Buttons
-    6.  Navbar
+    5. Navbar
             i. Mobile / Hamburger
            ii. Desktop
           iii. Other Navbar Types
-    7. Images / Videos
+    6. Media
             i. Images
            ii. Videos
           iii. Other [Embeds, etc.]
-    8. Colors
+    7. Colors
             i. Light
            ii. Medium
           iii. Dark
          iiii. Translucent
 
 ================================================================================== 
-Section Dividers Copy’n’Paste at file /end
+8. Section Dividers Copy’n’Paste at file /end
 ================================================================================== 
 */ 
 
@@ -41,7 +65,7 @@ Section Dividers Copy’n’Paste at file /end
 
 /* 
 =======================
-   Element Selectors
+1. Element Selectors
 =======================
 */
 
@@ -52,7 +76,6 @@ Section Dividers Copy’n’Paste at file /end
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Dosis', sans-serif;
 }
 
 h1,
@@ -75,7 +98,7 @@ img {
 
 /* 
 =================
-Typography 
+2. Typography 
 ================= 
 */
 
@@ -88,7 +111,7 @@ Typography
 
 /* 
 =================
-Layout
+3. Layout
 ================= 
 */
 
@@ -99,7 +122,7 @@ Layout
 
 /* 
 =================
-Buttons
+4. Buttons
 ================= 
 */
 
@@ -109,7 +132,7 @@ Buttons
 
 /* 
 =================
-Navbar
+5. Navbar
 ================= 
 */
 
@@ -123,9 +146,9 @@ Navbar
 
 
 /* 
-=================
-Images / Videos
-================= 
+===================
+6. Media
+=================== 
 */
 
 /* ----------- Images --------------- */
@@ -138,14 +161,13 @@ Images / Videos
 
 /* 
 =================
-Colors
+7. Colors
 ================= 
 */
 
 
 /* ----------- Accents -----------  */
-/* ----------- Translucent
- -----------  */
+/* ----------- Translucent -----------  */
 /* ----------- Light --------------- */
 /* ----------- Medium -----------  */
 /* ----------- Dark -----------  */
@@ -158,10 +180,10 @@ Colors
 
 
 /* 
-=======================
-Section Dividers Copy’n’Paste
-(Or Click’n’Drag :)
-======================= 
+================================== 
+8. Section Dividers Copy’n’Paste
+      (Or Click’n’Drag :)
+================================== 
 */
 
 /* ------------ preSub-Dividers / Note / Type ------------ */
