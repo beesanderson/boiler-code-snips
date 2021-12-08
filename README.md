@@ -1,4 +1,7 @@
-# Personal Code Snips for Ease of Access :D 
+# Bridgette Sanderson's *personal* **OPENSOURCE CodeSnip LIBRARY** 
+
+Personal Code Snips for Ease of Access and to *ideally* avoid some **future** keyboard head smashes :D
+
 
 ## Hey all! Bridgette Sanderson here 🥸 🤓 😬
 
