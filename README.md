@@ -14,7 +14,8 @@ I've been called a strange hybrid of [Leslie Knope, (from Parks and Recreation)]
 
 PS -- I'm also way cooler than that makes me sound...I swear... * sweats in hidden * 
 
-![Binder Loves of the World UNITE](https://www.google.com/url?sa=i&url=https%3A%2F%2Felgl.org%2Fwhat-did-you-wish-you-knew-the-summer-intern-edition%2F&psig=AOvVaw1p_ft0vSfUWcx2A2T67f_X&ust=1639070168512000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC6hqva1PQCFQAAAAAdAAAAABAD)
+![Binder Loves of the World UNITE](https://user-images.githubusercontent.com/87204074/145253916-4c582d29-ee1c-41a0-9fdc-d96caaf58751.gif)
+
 
 =================================================================================================================================================================
 PPS- If you link to give me credit or shout outs that would be infinitely appreciated
@@ -25,7 +26,6 @@ Happy Coding and love to all my fellow DEVS!!! :D
     
     
 #### 💗Bridgette Sanderson
-                                                                        🥸 🤓 😬
 =================================================================================================================================================================
 
 
