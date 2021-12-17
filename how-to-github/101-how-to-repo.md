@@ -1,6 +1,8 @@
 # How to GitHub 101 
 Below is my *Step by Step Guide on how to Download and Edit a Public Repository on GitHub* for beginner developers. This Guide links to several GitHub Docs I wish that someone had directed me to when I was an absolutely "green" developer myself. To avoid that happening to you let me be the *first* (or...possibly the first?) to compile then share with you! :D 
 
+I used to be an assistant preschool & Kindergarten teacher which has *weirdly* taught me how to teach and (in previous management positions I've had,) train adults. I know what it's like to be (or **FEEL**) young, "dumb," and terrified of what you have to do. That's overwhelming for anyone. Everyone knows what it's like to feel small, intimidated, and inadequate. There are a lot of us around you, *ahem yooo🤓*, who have made it one of our missions & goals in life to help teach what we know in a way that would have helped us while we were, ourselves, learning it. I hope to be able to do that one day. 
+
 
 
 ## To Git or not to Git...that is the question (except you will need to GIT)
@@ -13,7 +15,14 @@ My "*How to Git*" Guide is in the works (aka WIP.) In the meantime please read s
 
 - ** PPS [GitHub CoPilot](https://www.sitepoint.com/github-copilot-ai-pair-programming/) is actually really impressive and it will really increase productivity. I was just joking before, the tech is AMAZING and potential LIMITLESS! 
 
+
+
+
+## Now for the actual Tutorial
+
 I develop all of my projects using [Visual Studio Code](https://code.visualstudio.com/) as my [Source Code](https://www.quora.com/What-is-the-use-of-code-editor) Editor. Please refer to link for further detail (if you're a entry level beginner.) 
+
+- (I will also be creating a "*Beginner's Guide to Text Editors*" ASAP. This will be a walk through/quick lesson on code editors (mainly [Visual Studio Code](https://code.visualstudio.com/)and [CodePen](https://codepen.io/).) What they are, how to use them, the different options, and how to use the most beginner friendly ones. My personal preference for "Entry Level" Devs is [CodePen](https://www.freecodecamp.org/news/how-to-use-codepen/) as it was the only way I was able to code when I first started...because I was thrown into a lake to learn how to swim as I fondly put it...**shivers**. There are *TONS* of resources out there like this but let me be the first to tell you...THEY ARE HARD TO FIND as a "rookie." Personally for me, all the videos or articles I was able to find were not beginner friendly. Either everyone tries to sell you something or promote an extension (that I didn't even know what the purpose for was because I didn't understand *ANYTHING*!) BTW I'm all about extensions, they are *truly* life savers. As a beginner you don't need to be taught all of that...it's to much to fast and to intimidating...you just need to know how to use the programs basic functionality.)
 
 
 
