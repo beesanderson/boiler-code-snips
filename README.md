@@ -18,6 +18,8 @@ This is still an active work in progress (WIP) project as noted above but stress
 2. [How to GitHub](/how-to-github) - My Guides, Tips'n'Tricks, HowTos, and Advice on GitHub and Git
 3. [Resources'n'Helps](/resources-n-helps) - Generalized Dashboard of Helpful Links, Resources, Repos, and just good old folks
 4. [Code Snips](/code-snips) - My *Personal* Code Snip Library (&& some recommended CodeSnip Libraries, hubba hubba)
+5. [Cheat Sheets](/cheatsheets-shh)
+6. []()
 More coming soon...
 
 ### A bit about me...
