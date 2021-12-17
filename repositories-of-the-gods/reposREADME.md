@@ -11,3 +11,11 @@ But as for the best repository in the entire world here it is....
 ## King of Repos === [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers) by Brad Traversy ([Traversy Media](https://www.youtube.com/c/TraversyMedia))
 
 ....and just like that Brad won GitHub. It's over guys. We can go home. He's done it. 
+
+
+
+
+
+
+## My Personal Favorites
+1. [Mike Foskett](https://github.com/2kool2) AKA my new muse & protege (unbeknownst to him)
