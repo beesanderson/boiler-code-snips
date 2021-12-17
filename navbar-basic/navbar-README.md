@@ -43,7 +43,7 @@ Code Snips:
         <p class="navbar-title">Bridgette Sanderson<span class="navbar-subtitle block">Software && Web Developer</span></p>
     </div>
 
-    <!-- put ham menu between two current divs -->
+    <!-- put hamburger menu between two current divs -->
     <a href="#" class="toggle-button" id="toggle-button">
         <span class="bar"></span>
         <span class="bar"></span>
@@ -185,4 +185,4 @@ toggleButton.addEventListener("click", () => {
 ```
 Can add animation through downloading an `npm` package from `animate.css` or linking through bootstrap's CDN if you don't want to download. Will help with site's runtime/load time in some cases. 
 
-- Of course you can always write your own animation which is something I personally enjoy doing as its something I've done since I was a kid :) 
+- Of course you can always write your own animation which is something I personally enjoy doing as its something I've done since I was a kid :) I'll upload some demos/preview pictures and videos when and where applicable :) 
