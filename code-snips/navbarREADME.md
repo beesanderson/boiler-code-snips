@@ -17,13 +17,13 @@ Each code snip will (*ideally*) have --
 2. Files - HTML | CSS | JavaScript | ETC  
 (with all related code and refactoring linked if needed in comments)
 
-3. Used Assets - CDNs | Templates | Videos | Magic | Sorcery | & Otherwise Serendipitous Seemingly *Esoteric* Methods
+3. Used Assets - CDNs | Templates | Videos | Magic | Sorcery | & Otherwise Serendipitous Seemingly *Esoteric* Methods of Obtaining Knowledge
 
 4. I just felt like there should be four...I need sleep...badly. lol 
 
 
 ## *Hang tight...*
-I'll also create a little table of contents dashboard once I, you know, *actually have enough snips to link to*) because that just seems like the wise and "Bridgette" thing to do. 
+I'll also create a little table of contents dashboard once I, you know, *actually have enough snips uploaded & formatted to link to*) because that just seems like the wise and "Bridgette" thing to do. 
 
 
 #### Happy Coding!! 
