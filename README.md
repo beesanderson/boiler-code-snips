@@ -85,6 +85,6 @@ Basically, any kudos/shout outs are *always appreciated* AND most importantly **
         
 #### 💗Bridgette Sanderson
 
-[A11yProject.com](a11yproject.com) is one of the most important resources for Web Developers in this day and age in order to stay informed on updates, best practices, and compliant for our differently abled brothers and sisters! Please be sure to use their guidelines and checklists to ensure that those disabled among us are able to fully enjoy the internet as much as the rest of us!!
+[A11yProject.com](a11yproject.com) is one of the most important resources for Web Developers in this day and age in order to remain compliant through staying informed on updates, and best practices for our differently abled brothers and sisters! Please be sure to use their guidelines and checklists to ensure that those disabled among us are able to fully enjoy the internet as much as the rest of us!!
 
 ### **CodeSnip &ResourceCenter– Active WIP. Public project MVP, AGILE WorkFlow & Wireframes are actively in development to display .project(public) objectives
